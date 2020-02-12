@@ -1,0 +1,23 @@
+[
+  {
+    "type": "item_group",
+    "id": "science",
+    "charges-min": 5,
+    "ammo": 50,
+    "magazine": 100,
+    "items": [
+      [ "eac_recovery_pump", 5 ],
+      [ "eac_vac_pump", 5 ],
+      [ "eac_textbook_extraction", 12 ],
+      [ "eac_filter_paper_qualitative", 10 ],
+      [ "eac_filter_paper_quantitative", 10 ],
+      [ "eac_butane_tank", 20 ],
+      [ "eac_flask_buchner", 10 ],
+      [ "eac_gasket_plastic", 10 ],
+      [ "eac_vac_oven_small", 5 ],
+      [ "eac_butane_can", 5 ],
+      [ "eac_extractor_small", 5 ],
+      [ "eac_extractor_large", 5 ]
+    ]
+  }
+]
